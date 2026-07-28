@@ -207,7 +207,7 @@
 </text>
 
     <!-- FIXED Typing Sub-Header -->
-    <!-- <g transform="translate(35, 140)">
+    <g transform="translate(35, 140)">
      <g clip-path="url(#clipRole1)">
     <text class="text-accent font-semibold" font-size="20">Frontend Engineer</text>
 </g>
@@ -222,7 +222,7 @@
 
 <g clip-path="url(#clipRole4)">
     <text class="text-accent font-semibold" font-size="20">AI Enthusiast</text>
-</g> -->
+</g>
       <!-- Cursor -->
       <rect y="-16" width="9" height="22" fill="#00F0FF">
         <animate attributeName="x" 
