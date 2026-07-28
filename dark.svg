@@ -259,21 +259,22 @@
       
       <g transform="translate(0, 16)">
         <!-- Row 1 -->
-        <g class="pill" transform="translate(0,0)"><rect width="78" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">React</text></g>
-        <g class="pill" transform="translate(86,0)"><rect width="88" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Next.js</text></g>
-        <g class="pill" transform="translate(182,0)"><rect width="88" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Node.js</text></g>
+        <g class="pill" transform="translate(0,0)"><rect width="78" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">HTML</text></g>
+        <g class="pill" transform="translate(86,0)"><rect width="88" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">CSS</text></g>
+        <g class="pill" transform="translate(182,0)"><rect width="88" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Javascript.js</text></g>
         <g class="pill" transform="translate(278,0)"><rect width="102" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">TypeScript</text></g>
         <g class="pill" transform="translate(388,0)"><rect width="92" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Tailwind</text></g>
+          <g class="pill" transform="translate(388,0)"><rect width="92" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">bootstap</text></g>
 
         <!-- Row 2 -->
-        <g class="pill" transform="translate(0,36)"><rect width="82" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Python</text></g>
-        <g class="pill" transform="translate(90,36)"><rect width="82" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Docker</text></g>
+        <g class="pill" transform="translate(0,36)"><rect width="82" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">PHP</text></g>
+        <g class="pill" transform="translate(90,36)"><rect width="82" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">laravel</text></g>
         <g class="pill" transform="translate(180,36)"><rect width="92" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Postgres</text></g>
-        <g class="pill" transform="translate(280,36)"><rect width="102" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">JavaScript</text></g>
-        <g class="pill" transform="translate(390,36)"><rect width="68" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">PHP</text></g>
+        <g class="pill" transform="translate(280,36)"><rect width="102" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Mysql</text></g>
+        <g class="pill" transform="translate(390,36)"><rect width="68" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">React</text></g>
 
         <!-- Row 3 -->
-        <g class="pill" transform="translate(0,72)"><rect width="68" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">AWS</text></g>
+        <g class="pill" transform="translate(0,72)"><rect width="68" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Cypress</text></g>
         <g class="pill" transform="translate(76,72)"><rect width="62" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Git</text></g>
         <g class="pill" transform="translate(146,72)"><rect width="74" height="28" rx="14"/><circle cx="12" cy="14" r="3"/><text x="24" y="18">Figma</text></g>
       </g>
