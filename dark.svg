@@ -181,7 +181,7 @@
     <!-- Bottom Status Bar -->
     <rect x="20" y="475" width="340" height="32" rx="8" fill="rgba(3, 7, 18, 0.85)" stroke="rgba(0, 240, 255, 0.2)" />
     <circle cx="38" cy="491" r="4" fill="#00FF66"><animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" /></circle>
-    <text x="52" y="495" class="text-mono" font-size="11" fill="#94A3B8">HOST: <tspan fill="#F8FAFC">fadi-cyberstation</tspan></text>
+    <text x="52" y="495" class="text-mono" font-size="11" fill="#94A3B8">HOST: <tspan fill="#F8FAFC">Fadi</tspan></text>
   </g>
 
   <!-- ============================================== -->
@@ -203,7 +203,7 @@
 
     <!-- Primary Greeting -->
     <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
-      Hi 👋, I'm <tspan fill="url(#cyberGradient)">Fadi</tspan>
+      Hi 👋, I'm <tspan fill="url(#cyberGradient)">Fahad Khanzada</tspan>
     </text>
 
     <!-- Typing Sub-Header -->
