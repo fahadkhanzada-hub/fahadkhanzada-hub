@@ -190,12 +190,12 @@
     <line x1="20" y1="48" x2="660" y2="48" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
 
     <!-- Primary Greeting -->
-    <!-- <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
+    <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
       Hi 👋, I'm <tspan fill="url(#cyberGradient)">Fahad Khanzada</tspan> 
       Full Stack Engineer (Laravel + React)
       I build scalable SaaS, ERP, and eCommerce systems.
       
-    </text> -->
+    </text>
     <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
   <tspan x="35" dy="0">
     Hi 👋, I'm
@@ -212,22 +212,22 @@
 </text>
 
     <!-- FIXED Typing Sub-Header -->
-    <!-- <g transform="translate(35, 140)">
+    <g transform="translate(35, 140)">
       <text class="text-accent font-semibold" font-size="20" fill="#00F0FF">
         <tspan x="0" y="0" clip-path="url(#clipRole1)">Frontend Engineer</tspan>
         <tspan x="0" y="0" clip-path="url(#clipRole2)">Full Stack Developer</tspan>
         <tspan x="0" y="0" clip-path="url(#clipRole3)">UI Engineer</tspan>
         <tspan x="0" y="0" clip-path="url(#clipRole4)">AI Enthusiast</tspan>
-      </text> -->
+      </text>
       <!-- Cursor -->
-      <!-- <rect y="-16" width="9" height="22" fill="#00F0FF">
+      <rect y="-16" width="9" height="22" fill="#00F0FF">
         <animate attributeName="x" 
                  values="0; 210; 210; 0; 0; 230; 230; 0; 0; 140; 140; 0; 0; 160; 160; 0" 
                  keyTimes="0; 0.08; 0.2; 0.25; 0.251; 0.33; 0.45; 0.5; 0.501; 0.58; 0.7; 0.75; 0.751; 0.83; 0.95; 1" 
                  dur="16s" repeatCount="indefinite" />
         <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" calcMode="discrete"/>
       </rect>
-    </g> -->
+    </g>
 
     <!-- Information Matrix -->
     <g class="text-primary text-mono" font-size="13" transform="translate(35, 196)">
