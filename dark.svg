@@ -190,12 +190,26 @@
     <line x1="20" y1="48" x2="660" y2="48" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
 
     <!-- Primary Greeting -->
-    <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
+    <!-- <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
       Hi 👋, I'm <tspan fill="url(#cyberGradient)">Fahad Khanzada</tspan> 
       Full Stack Engineer (Laravel + React)
       I build scalable SaaS, ERP, and eCommerce systems.
       
-    </text>
+    </text> -->
+    <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
+  <tspan x="35" dy="0">
+    Hi 👋, I'm
+    <tspan fill="url(#cyberGradient)">Fahad Khanzada</tspan>
+  </tspan>
+
+  <tspan x="35" dy="42" font-size="22" fill="#00F0FF">
+    Full Stack Engineer (Laravel + React)
+  </tspan>
+
+  <tspan x="35" dy="34" font-size="18" fill="#94A3B8">
+    I build scalable SaaS, ERP, and eCommerce systems.
+  </tspan>
+</text>
 
     <!-- FIXED Typing Sub-Header -->
     <g transform="translate(35, 140)">
