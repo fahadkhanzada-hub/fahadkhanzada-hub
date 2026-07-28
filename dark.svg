@@ -203,7 +203,9 @@
 
     <!-- Primary Greeting -->
     <text x="35" y="96" class="text-primary font-bold" font-size="34" letter-spacing="-0.5">
-      Hi 👋, I'm <tspan fill="url(#cyberGradient)">Fahad Khanzada</tspan>
+      Hi 👋, I'm <tspan fill="url(#cyberGradient)">Fahad Khanzada</tspan><br>
+      Full Stack Engineer (Laravel + React)
+I build scalable SaaS, ERP, and eCommerce systems.
     </text>
 
     <!-- Typing Sub-Header -->
